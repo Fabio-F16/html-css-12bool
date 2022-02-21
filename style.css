@@ -8,16 +8,11 @@
 .bg-blue{
     background-color: blue;
     border: 1px solid white;
-    
-    
 }
 
 .bg-green{
     background-color: green;
-    border: 1px solid white;
-    justify-content: center;
-    align-items: center;
-    
+    border: 1px solid white; 
 }
 
 .height-50{
