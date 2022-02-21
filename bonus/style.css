@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.col-1{
+    flex-basis: calc((100% / 26) * 1);
+    max-width:  calc((100% / 26) * 1);
+}
+
+.container{
+    width: 100%;
+    margin: auto;
+}
+
+
+.height{
+    height: 47.5px;
+}
+
+
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+
+.bg-grey {
+    background-color: grey;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.white{
+    background-color: white;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+
